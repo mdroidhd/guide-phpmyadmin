@@ -40,6 +40,7 @@ Una vez dentro ponemos los siguiente comandos:
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'tu_contraseña';
 ```
+
 ``PD``: donde dice ```tu_contraseña``` poner la que vosostros querais.
 Luego aplicamos los cambios
 ```
