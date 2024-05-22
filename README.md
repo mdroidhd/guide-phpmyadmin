@@ -51,7 +51,7 @@ EXIT;
 ```
 ### Verficación
 #### Comprobamos que la contraseña se haya cambiado
-Escribimos la contrañea que creamos en el ``Paso 4`` y nos deberia de dejar entrar.
+Escribimos la contrañea que creamos en el [Paso 4](https://github.com/mdroidhd/guide-phpmyadmin/blob/main/README.md#Paso-4) y nos deberia de dejar entrar.
 
 ``PD``: La contraseña no se ve cuando se escribe.
 ```
@@ -67,6 +67,12 @@ http://[IP_PUBLICA o NOMBRE_DOMINIO]/phpmyadmin
 ```
 https://dam09jesuitas2024.mhdflix.com/phpmyadmin/
 ```
+
+Para acceder ponemos:
+
+``Usuario``: root
+
+``Contraseña``: [Paso 4](https://github.com/mdroidhd/guide-phpmyadmin/blob/main/README.md#Paso-4)
 
 
 ## Autores
