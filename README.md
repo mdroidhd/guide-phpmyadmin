@@ -27,7 +27,7 @@ sudo apt install phpmyadmin
 ```
 ![paso de mysql](https://github.com/mdroidhd/guide-phpmyadmin/blob/main/img/mysql-step-1.png)
 
-En las pantallas que salgan, deberemos marcar la casilla apache (el la tecla ```ESPACIO```) luego presionamos ```ENTER```.
+En las pantallas que salgan, deberemos marcar la casilla apache (con la tecla ```ESPACIO``` se marca) luego presionamos ```ENTER```.
 El resto de pasos les pedira una contraseña para el mysql y el resto sera darle ```OK``` a todo.
 ``PD``: Nos movemos en la interfaz con las flechas (```← →↑↓```)
 
